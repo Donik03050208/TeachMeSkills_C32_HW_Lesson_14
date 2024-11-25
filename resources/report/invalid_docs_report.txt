@@ -1,0 +1,6 @@
+docnum23h5bkj## - Incorrect characters
+docnum865s87d5s7d - Incorrect document number length
+contract434jhb^ - Incorrect characters
+contract2fjw24jb - Incorrect document number length
+example187f2wrw - Incorrect sequence of characters at the beginning of the document number
+example2hbn5kb25 - Incorrect document number length and incorrect sequence of characters at the beginning of the document number
